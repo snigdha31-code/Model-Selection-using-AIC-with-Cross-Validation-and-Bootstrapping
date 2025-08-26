@@ -1,0 +1,6 @@
+Bootstrap Accuracy Scores: Min=0.560, Max=0.750, Std Dev=0.044
+K-Fold Cross-Validation Mean Accuracy: 0.710
+K-Fold Cross-Validation Std Dev: 0.086
+Bootstrapping Mean Accuracy: 0.682
+Bootstrapping Std Dev: 0.044
+
